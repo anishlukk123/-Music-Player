@@ -1,0 +1,18 @@
+
+
+.root
+{
+-fx-background-color:"blue";
+}
+.label{
+-fx-font-size:20;
+-fx-font-family:"Times New Roman";
+-fx-text-fill:"white"
+}
+#TitleLevel
+{
+-fx-font-size:30;
+
+}
+
+
